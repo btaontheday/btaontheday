@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @btaontheday
-- 👀 I’m interested in playing badminton
-- 🌱 I’m currently learning python and c++
+
+
 
 
 
